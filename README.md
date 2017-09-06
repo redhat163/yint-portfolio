@@ -1,2 +1,2 @@
-# yint-portfolio
-This is Eric's portfolio
+# Eric Yin's portolio
+This is Eric's portfolio. It uses AWS and ReactJS.
